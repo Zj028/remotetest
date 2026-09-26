@@ -5,3 +5,4 @@ Creating a new branch is quick.
 Creating a new branch is quick2 and simple.
 test fast-forward.
 BUG-branch
+together-work-clone
