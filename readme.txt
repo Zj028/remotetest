@@ -6,3 +6,4 @@ Creating a new branch is quick2 and simple.
 test fast-forward.
 BUG-branch
 fix-SourceTree
+together-work-clone
